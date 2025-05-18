@@ -1,0 +1,1 @@
+# Ex.No10-20SimpleQueries
